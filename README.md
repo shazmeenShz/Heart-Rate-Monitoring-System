@@ -152,19 +152,22 @@ Python GUI Dashboard
 
 ## Hardware Setup
 
-(Add Hardware Setup Image Here)
+setup.jpg
 
 ## OLED Display Output
 
-(Add OLED Display Image Here)
+OLED.jpg
+OLED1.jpg
+OLED2.jpg
 
 ## Python GUI Dashboard
 
-(Add GUI Screenshot Here)
+GUI.png
 
 ## Final Working Prototype
 
-(Add Final Prototype Image Here)
+FINAL RESULT.jpg
+
 
 ---
 
