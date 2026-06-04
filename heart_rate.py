@@ -1,4 +1,44 @@
+"""
+==================================================
+Project  : Heart Rate Monitoring System
+File     : heart_rate_dashboard.py
+Author   : Shazmeen Wasi Siddiqui
+Version  : 1.0
+==================================================
 
+Purpose:
+Receives real-time heart rate and estimated
+blood pressure data from Arduino through serial
+communication and displays the readings on a
+desktop graphical user interface.
+
+Hardware:
+- Arduino Nano
+- MAX30102 Pulse Oximeter & Heart Rate Sensor
+- OLED Display (SSD1306)
+
+Communication:
+Serial UART : 9600 baud
+
+Features:
+- Real-time BPM monitoring
+- Estimated Blood Pressure display
+- Live serial data visualization
+- User-friendly desktop interface
+
+Dependencies:
+- tkinter
+- pyserial
+
+NOTE:
+Blood pressure values shown are estimated
+mathematically from heart rate data and are
+not medically measured values.
+
+Last Updated:
+05 June 2026
+==================================================
+"""
 import sys
 import re
 import math
