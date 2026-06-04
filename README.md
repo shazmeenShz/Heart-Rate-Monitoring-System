@@ -150,23 +150,21 @@ Python GUI Dashboard
 
 # 📸 Project Gallery
 
-## Hardware Setup
-
-setup.jpg
+https://github.com/shazmeenShz/Heart-Rate-Monitoring-System/blob/02cf35a15821b146f373715897ff40e2ea6934d5/setup.jpg
 
 ## OLED Display Output
 
-OLED.jpg
-OLED1.jpg
-OLED2.jpg
+https://github.com/shazmeenShz/Heart-Rate-Monitoring-System/blob/02cf35a15821b146f373715897ff40e2ea6934d5/OLED.jpg
+https://github.com/shazmeenShz/Heart-Rate-Monitoring-System/blob/02cf35a15821b146f373715897ff40e2ea6934d5/OLED1.jpg
+https://github.com/shazmeenShz/Heart-Rate-Monitoring-System/blob/02cf35a15821b146f373715897ff40e2ea6934d5/OLED2.jpg
 
 ## Python GUI Dashboard
 
-GUI.png
+https://github.com/shazmeenShz/Heart-Rate-Monitoring-System/blob/02cf35a15821b146f373715897ff40e2ea6934d5/GUI.png
 
 ## Final Working Prototype
 
-FINAL RESULT.jpg
+https://github.com/shazmeenShz/Heart-Rate-Monitoring-System/blob/02cf35a15821b146f373715897ff40e2ea6934d5/FINAL%20RESULT.jpg
 
 
 ---
