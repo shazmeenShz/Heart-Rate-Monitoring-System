@@ -1,8 +1,8 @@
 """
 ==================================================
 Project  : Heart Rate Monitoring System
-File     : heart_rate_dashboard.py
-Author   : Shazmeen Wasi Siddiqui
+File     : heart_rate.py
+Author   : Shazmeen Siddiqui
 Version  : 1.0
 ==================================================
 
