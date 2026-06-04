@@ -1,7 +1,23 @@
 /*============================================================
- Heart Rate & Blood Pressure Monitor
- MAX30105 + SSD1306 OLED (128x64) + LED + Buzzer
+ Project  : Heart Rate Monitoring System
+ File     : Heart_Rate.ino
+ Author   : Shazmeen Siddiqui
+ Version  : 1.0
  ============================================================
+ Purpose:
+ Acquires pulse signals from the MAX30102 sensor,
+ calculates heart rate (BPM), estimates blood
+ pressure values, and displays the results on
+ an OLED screen while transmitting data to a
+ Python desktop GUI.
+
+ Communication:
+  I2C Address :
+  - MAX30102 : 0x57
+  - OLED SSD1306 : 0x3C
+
+ Serial UART : 9600 baud
+ 
  WIRING:
    MAX30105  → VCC=3.3/5V, GND, SDA=A4, SCL=A5
    OLED SSD1306 (I2C 0x3C or 0x3D) → same SDA/SCL bus
@@ -24,9 +40,10 @@
    NORMAL    : Systolic 90–139 mmHg
    HIGH BP   : Systolic ≥ 140 mmHg
 
- ERROR BLINK CODES (LED on pin 7):
-   Slow single blink (500ms) = OLED not found
-   Two fast blinks repeat    = MAX30105 not found
+   NOTE:
+   The displayed blood pressure values are
+   estimated from heart rate calculations and
+   should not be considered clinical measurements.
  ============================================================
 */
 
