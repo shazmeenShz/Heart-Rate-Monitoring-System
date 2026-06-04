@@ -44,6 +44,9 @@
    The displayed blood pressure values are
    estimated from heart rate calculations and
    should not be considered clinical measurements.
+
+   Last Updated:
+    05 June 2026
  ============================================================
 */
 
