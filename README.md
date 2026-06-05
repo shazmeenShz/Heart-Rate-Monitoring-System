@@ -1,6 +1,7 @@
 # ❤️ Heart Rate Monitoring System using MAX30102, Arduino Nano & Python GUI
 
 A real-time Heart Rate Monitoring System developed using the **MAX30102 Heart Rate Sensor**, **Arduino Nano**, **OLED Display**, and a **Python-based Desktop Dashboard**. The system continuously monitors heart rate, calculates BPM (Beats Per Minute), and displays the data simultaneously on an OLED screen and a laptop GUI.
+![OLED](OLED.jpg) ![Prototype](final_result.jpg)
 
 ---
 
