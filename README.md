@@ -16,25 +16,25 @@ To enhance visualization and user interaction, a Python-based desktop applicatio
 
 # ✨ Key Features
 
-✅ Real-Time Heart Rate Monitoring
+Real-Time Heart Rate Monitoring
 
-✅ BPM (Beats Per Minute) Calculation
+- BPM (Beats Per Minute) Calculation
 
-✅ MAX30102 Sensor Integration
+- MAX30102 Sensor Integration
 
-✅ OLED Display Output
+- OLED Display Output
 
-✅ Python GUI Dashboard
+- Python GUI Dashboard
 
-✅ Live Serial Communication
+- Live Serial Communication
 
-✅ Simultaneous OLED and Laptop Monitoring
+- Simultaneous OLED and Laptop Monitoring
 
-✅ Health Status Indication
+- Health Status Indication
 
-✅ LED and Buzzer Alerts
+- LED and Buzzer Alerts
 
-✅ Compact and Portable Design
+- Compact and Portable Design
 
 ---
 
